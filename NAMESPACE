@@ -1,0 +1,7 @@
+## compiled code
+useDynLib(packfor)
+
+### Export
+
+export(forward.sel,forward.sel.par)
+

@@ -1,0 +1,16 @@
+Package: packfor
+Title: Forward Selection with permutation (Canoco p.46)
+Version: 0.0-8
+Date: 2011-12-16
+Author: Stephane Dray with contributions of Pierre Legendre and Guillaume Blanchet
+Description: Forward Selection as in CANOCO based on permutation procedure using residuals from the reduced model. Y can be univariate (multiple regression) or multivariate (redundancy analysis).
+Maintainer: Stephane Dray <stephane.dray@univ-lyon1.fr>
+Suggests: vegan
+License: GPL 3
+Repository: R-Forge
+Repository/R-Forge/Project: sedar
+Repository/R-Forge/Revision: 136
+Repository/R-Forge/DateTimeStamp: 2016-06-17 07:22:55
+Date/Publication: 2016-06-17 07:22:55
+NeedsCompilation: yes
+Packaged: 2016-06-17 07:30:24 UTC; rforge
